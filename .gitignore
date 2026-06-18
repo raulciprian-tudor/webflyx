@@ -1,0 +1,5 @@
+# Ignore the entire secure directory and everything inside it
+secure/
+
+# Ignore the specific guilty_pleasures markdown file
+guilty_pleasures.md
